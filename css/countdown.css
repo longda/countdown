@@ -639,7 +639,7 @@ body, html {
   font-size: 20px;
   margin: 0;
   padding: 0;
-  background: #FFFFFF;
+  background: #fdb925;
   color: #000000; }
 
 /*.bt {
@@ -714,12 +714,12 @@ hr.fat {
   height: 5px; }
 
 ::-moz-selection {
-  background: #FE57A1;
+  background: #fdb925;
   color: #FFFFFF;
   text-shadow: none; }
 
 ::selection {
-  background: #FE57A1;
+  background: #fdb925;
   color: #FFFFFF;
   text-shadow: none; }
 
