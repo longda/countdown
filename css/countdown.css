@@ -673,8 +673,8 @@ a, .tl, .tl:link, .tl:visited, .tl:hover, .tl:active, .tl:focus {
   color: #000000; }
 
 a:hover {
-  background: #fdb925;
-  color: #FDC03B; }
+  background: #FDC03B;
+  color: #FFFFFF; }
 
 /*a.dk-bg {
   background: none;
@@ -690,7 +690,7 @@ a:hover {
   opacity: 1;
 }
 
-.opacity-hover:hover {
+.opacity-`hover`:hover {
   opacity: 0.8;
   -webkit-transition:opacity .4s;
 }*/
